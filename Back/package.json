@@ -1,0 +1,19 @@
+{
+  "name": "browback",
+  "version": "1.0.0",
+  "description": "backend de brow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Jose Rodriguez",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "corn": "0.0.1",
+    "express": "^4.16.4",
+    "nodemailer": "^6.0.0",
+    "nodemon": "^1.18.10"
+  }
+}
